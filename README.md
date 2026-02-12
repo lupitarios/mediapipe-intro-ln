@@ -19,6 +19,19 @@ I did this simple intro-project to understand how the library mediapipe works, a
   ---README.md 
  ```
 
+## Installation
+### Clone the repository
+ ```
+ git clone https://github.com/lupitarios/mediapipe-intro-ln.git
+ cd mediapipe-intro-ln
+ ```
+ ### Install dependencies
+ ```
+ pip install -r requirements.txt
+ ```
+### Execution
+```
+python mediapipe_hands.py
+```
 ## Preview of the excecution.
-
 ![mediapipe-intro](https://github.com/user-attachments/assets/bc14e50d-854e-4158-b842-7ebafffebfec)
