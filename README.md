@@ -16,7 +16,8 @@ I did this simple intro-project to understand how the library mediapipe works, a
         --- mediapipe-intro-ln/ 
   ---test/ 
   ---.gitignore 
-  ---README.md 
+  ---README.md
+  ---requirements.txt
  ```
 
 ## Installation
